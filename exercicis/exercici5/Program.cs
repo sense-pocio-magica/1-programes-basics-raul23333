@@ -8,6 +8,19 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        try
+        {
+            Console.Write("Escriu el teu nom: ");
+            string nom = Console.ReadLine();
+            Console.Write("Escriu el teu any de naixement: ");
+            int any = Convert.ToInt16(Console.ReadLine());
+            int edat = 2025 - any;
+            Console.WriteLine($"Hola {nom}!  Ja tens {edat} anys?");
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e.Message);
+        }
+        
     }
 }

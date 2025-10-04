@@ -5,6 +5,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        string paraula = "Patata";
+        char pri = paraula[0];
+        char mig = paraula[2];
+        char ult = paraula[5];
+        Console.WriteLine($"{pri} {mig} {ult}");
     }
 }

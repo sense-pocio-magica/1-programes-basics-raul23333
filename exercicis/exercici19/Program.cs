@@ -6,6 +6,15 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        try
+        {
+            string paraula = "Hola";
+            int longpar = paraula.Length;
+            Console.WriteLine($"La paraula {paraula} conté {longpar} caràcters");
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e.Message);
+        }
     }
 }

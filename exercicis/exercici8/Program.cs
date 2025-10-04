@@ -7,6 +7,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        int minuts = 200;
+        int minuts2 = minuts % 60;
+        int hores = minuts / 60;
+        Console.WriteLine($"Hores = {hores} Minuts = {minuts2}");
     }
 }

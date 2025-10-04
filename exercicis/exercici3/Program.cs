@@ -6,6 +6,20 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        string nomP = "Tablet";
+        int preu = 200;
+        bool estoc = true;
+
+        Console.WriteLine("Nom producte: " + nomP);
+        Console.WriteLine("Preu: " + preu + "$");
+        if (estoc == true)
+        {
+            Console.WriteLine("Estoc: Disponible");
+        }
+        else
+        {
+            Console.WriteLine("Estoc: No disponible");
+        }
+        
     }
 }
