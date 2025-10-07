@@ -1,0 +1,15 @@
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici17\obj\Debug\net9.0\exercici17.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici17\obj\Debug\net9.0\exercici17.AssemblyInfoInputs.cache
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici17\obj\Debug\net9.0\exercici17.AssemblyInfo.cs
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici17\obj\Debug\net9.0\exercici17.csproj.CoreCompileInputs.cache
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici17\obj\Debug\net9.0\exercici17.sourcelink.json
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici17\bin\Debug\net9.0\exercici17.exe
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici17\bin\Debug\net9.0\exercici17.deps.json
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici17\bin\Debug\net9.0\exercici17.runtimeconfig.json
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici17\bin\Debug\net9.0\exercici17.dll
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici17\bin\Debug\net9.0\exercici17.pdb
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici17\obj\Debug\net9.0\exercici17.dll
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici17\obj\Debug\net9.0\refint\exercici17.dll
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici17\obj\Debug\net9.0\exercici17.pdb
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici17\obj\Debug\net9.0\exercici17.genruntimeconfig.cache
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici17\obj\Debug\net9.0\ref\exercici17.dll

@@ -8,6 +8,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        string nom = "raul";
+        string any_naix = "1234";
+        string contra = string.Concat(nom, any_naix);
+        Console.WriteLine(contra);
     }
 }

@@ -7,6 +7,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        double quadrat = 5;
+        double perimetre = quadrat * 4;
+        Console.WriteLine($"El perímetre és {perimetre}");
     }
 }

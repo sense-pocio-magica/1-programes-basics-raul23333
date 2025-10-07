@@ -10,7 +10,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
-        
+        Console.Write("Preu en euros: ");
+
+        double eur = double.Parse(Console.ReadLine());
+        double pessetes = 166.386;
+        double res = eur * pessetes;
+
+        Console.WriteLine($"El producte costa {res} pessetes");
     }
 }

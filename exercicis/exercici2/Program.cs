@@ -8,6 +8,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        string carrer = "Carrer Dels Tapers";
+        int num = 1;
+        int post = 17707;
+        string pob = "Agullana";
+
+        Console.WriteLine($"{carrer} número {num}, {post}, {pob}");
     }
 }

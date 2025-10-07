@@ -5,6 +5,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        string nom_usu = "raul23";
+        string domini = "cendrassos.net";
+        Console.WriteLine($"{nom_usu}@{domini}");
     }
 }

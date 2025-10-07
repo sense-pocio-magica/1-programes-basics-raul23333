@@ -1,0 +1,15 @@
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici19\bin\Debug\net9.0\exercici19.exe
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici19\bin\Debug\net9.0\exercici19.deps.json
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici19\bin\Debug\net9.0\exercici19.runtimeconfig.json
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici19\bin\Debug\net9.0\exercici19.dll
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici19\bin\Debug\net9.0\exercici19.pdb
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici19\obj\Debug\net9.0\exercici19.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici19\obj\Debug\net9.0\exercici19.AssemblyInfoInputs.cache
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici19\obj\Debug\net9.0\exercici19.AssemblyInfo.cs
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici19\obj\Debug\net9.0\exercici19.csproj.CoreCompileInputs.cache
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici19\obj\Debug\net9.0\exercici19.sourcelink.json
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici19\obj\Debug\net9.0\exercici19.dll
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici19\obj\Debug\net9.0\refint\exercici19.dll
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici19\obj\Debug\net9.0\exercici19.pdb
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici19\obj\Debug\net9.0\exercici19.genruntimeconfig.cache
+C:\DAW\Programacion\Proyectos\Tema 1\1-programes-basics-raul23333\exercicis\exercici19\obj\Debug\net9.0\ref\exercici19.dll

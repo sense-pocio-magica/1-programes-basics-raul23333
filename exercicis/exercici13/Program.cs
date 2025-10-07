@@ -17,6 +17,32 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        try
+        {
+            Console.Write("Entra la data sense formatar: ");
+            string data_no_format = Console.ReadLine();
+            while (true)
+            {
+                if (data_no_format.Length != 8)
+                {
+                    Console.Write("Entra la data sense formatar (DDMMAAAA): ");
+                    data_no_format = Console.ReadLine();
+                }
+                else
+                {
+                    break;
+                }
+            }
+
+            var dia = data_no_format.Substring(0, 2);
+            var mes = data_no_format.Substring(2, 2);
+            var any = data_no_format.Substring(4);
+
+            Console.WriteLine($"La data és {dia}/{mes}/{any}");
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e.Message);
+        }
     }
 }
